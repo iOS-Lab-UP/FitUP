@@ -1,0 +1,17 @@
+
+- Que recursos necesito por equipo(front, back, diseño)
+- Plan de proyecto
+- Estandares de cada app por area
+- Alcances de las dos apps
+REFERENTE A BACK-END
+- A que servidor vamos a conectar nuestras apps
+- como obtendremos permisos para conectarnos a ese servidor
+- ¿Qué vamos a hacer para prevenir inyecciones sql?
+- Como nos aseguramos que nadie externo de la up entre
+- Si obtenemos permisos para entrar con usuario y contraseña que 
+protocolos vamos a utilizar para mantener a la up y su información privada 
+REFERENTE A FRONT
+- Para la parte web que framework nos recomiendas utilizar
+- que opciones para las apps
+	- apps nativas (javakotlin, native development kit) 
+	- apps hibridas
